@@ -10,6 +10,6 @@ branches:
 
 deploy:
   provider: heroku
-  app: "avelonics"
+  app: avelonics
   api_key:
     secure: "4d5749d4-9dfe-4ea0-9174-1c6021801eda"
